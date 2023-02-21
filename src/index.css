@@ -13,3 +13,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Btn {
+  display: block;
+  width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  background-color: rgb(255, 255, 255);
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+/* .Section{
+  display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}  */
