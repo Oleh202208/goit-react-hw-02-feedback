@@ -5,7 +5,7 @@ import { Statistics } from '../Statistics/Statistics';
 import { Section } from 'components/Section/Section';
 import { Container } from './App.styled';
 
-class App extends React.Component {
+class App extends Component {
   state = {
     good: 0,
     neutral: 0,
