@@ -14,7 +14,7 @@ code {
     monospace;
 }
 
-.Btn {
+/* .Btn {
   display: block;
   width: 100px;
   height: 30px;
@@ -22,7 +22,7 @@ code {
   background-color: rgb(255, 255, 255);
   text-transform: capitalize;
   font-size: 20px;
-}
+} */
 
 /* .Section{
   display: flex;
