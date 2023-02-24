@@ -14,6 +14,7 @@ const Btn = styled.button`
   background-color: #fff;
   text-transform: capitalize;
   font-size: 20px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   :hover {
     background-color: #3e2ef0;
   }
