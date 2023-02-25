@@ -1,4 +1,4 @@
-import PropTypes from 'react';
+import PropTypes from 'prop-types';
 import { List } from './Statistics.styled';
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => {
   return (
